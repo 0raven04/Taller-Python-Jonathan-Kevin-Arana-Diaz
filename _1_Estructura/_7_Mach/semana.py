@@ -17,3 +17,4 @@ if __name__ == '__main__':
         sys.stdout.write(f"El dia de la semana indicado es {semana}")
     else:
         sys.stdout.write(f"{semana}")
+

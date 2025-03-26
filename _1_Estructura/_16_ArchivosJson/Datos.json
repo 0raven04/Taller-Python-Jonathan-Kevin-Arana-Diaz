@@ -1,0 +1,18 @@
+{
+  "personas": [
+    {
+        "nombre": "Fereico Peluche",
+        "edad": 45,
+        "Ciudad": "San Martin Texmelucan",
+        "estado": "Puebla"
+    },
+    {
+        "nombre": "Gabriela Torres",
+        "edad": 38,
+        "Ciudad": "Santa Julia",
+        "estado": "Coahuila"
+
+    }
+
+  ]
+}
